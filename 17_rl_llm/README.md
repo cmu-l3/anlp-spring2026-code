@@ -1,4 +1,4 @@
-### Lecture 16: Reinforcement learning II: RL for LLMs
+### Lecture 17: Reinforcement learning II: RL for LLMs
 
 This example shows how to fine-tune a language model with reinforcement learning for the task of reversing a string.
 - `sft.py`: initial supervised fine-tuning stage

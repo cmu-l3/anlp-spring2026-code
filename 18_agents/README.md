@@ -1,4 +1,4 @@
-### Lecture 17: Agents
+### Lecture 18: Agents
 
 1. `trivial_agent`: simple rule-based agent for a single environment
 2. `llm_agent`: LLM agent
